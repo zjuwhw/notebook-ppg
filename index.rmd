@@ -1,0 +1,12 @@
+# Preface
+
+This is a notebook for reading the book ["Principles of Population Genetics (4th edition), Daniel L. Hartl & Andrew G. Clark"](https://www.amazon.com/Principles-Population-Genetics-Daniel-Hartl/dp/0878933085)
+
+
+
+## Why population genetics, why now?
+
+- conceptual: the theory of coalescence
+- empirical: genomics: complete DNA sequences of many genomes; SNPs; high-throughput and cost-effective methods
+- computational
+

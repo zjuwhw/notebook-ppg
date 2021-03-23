@@ -1,0 +1,75 @@
+# Darwinian Selection
+
+## Selection in haploid organisms
+
+### Discrete generations
+
+### Continuous time
+
+### Change in Allel frequncy in Haploids
+
+### Darwinian Fitness and Malthusian Fitness
+
+## Selection in Diploid organisms
+
+### Change in Allele freuqncy in Diploids
+
+### Marginal Fitness and Selection with Multiple Alleles
+
+### Application to the Evolution of Insecticide Resistance
+
+## Equilibria with Selection
+
+### Overdominance
+
+### Local stability
+
+### Heterozygote inferiority
+
+### Stable equilibria with multiple alleles
+
+### Adaptive topography and the role of random genetic drift
+
+## Mutation-Selection balance
+
+### Equilibrium Allele frequencies
+
+### The Haldane-Muller Principle
+
+## More complex types of selection
+
+### Differential selection in the sexes
+
+### X-linked genes
+
+### Frequency-dependent selection
+
+### Density-dependent selection
+
+### Fecundity selection
+
+### Age-structured populations
+
+### Heterogenous environments and clines
+
+### Diversifying selection
+
+### Gametic selection
+
+### Meiotic drive
+
+### Multiple loci and gene interaction: epistasis
+
+### Evolution of recombination rate
+
+### Sexual selection
+
+### Kin selection
+
+## Interdeme selection in geographically subdivided populations
+
+## Selection in a finite population
+
+### Weak selection and the nearly neutral theory
+
+### Genetic "Draft"

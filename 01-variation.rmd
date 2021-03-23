@@ -1,0 +1,73 @@
+# Genetic and Phenotypic Variation
+
+Population genetics
+
+genotype and phenotype, evolution
+
+## Relevance of Population Genetics
+
+Mendel (1866); Francis Galton
+
+## Phenotypic variation in natural populations
+
+discrete variation, continuous variation
+
+segregation
+
+### Continuous variation: the normal distribution
+
+normal distribution
+
+mean and variance
+
+### Mean and Variance
+
+parameters: fixed numerical constants, estimates
+
+sample, population
+
+standard deviation
+
+### The Central Limit Theorem
+
+multifactorial
+
+### Discrete Mendelian Variation
+
+Each of the possible forms of a gene encoded in its DNA sequence is called an **allele** of the gene.
+
+homozygous, heterozygous
+
+Biometricians vs Mendelians
+
+Fisher 1918
+
+## Multiple-factor inheritance
+
+## Maintenance of Genetic variation
+
+## Mollecular population genetics
+
+### Electrophoresis
+
+### Allele frequencies and genotype frequencies
+
+### Polymorphism and heterozygosity
+
+### Allozyme polymorphisms
+
+### Inferences from Allozyme Polymorphisms
+
+## Polymorphisms in DNA sequences
+
+### Restriction Enzymes
+
+### The Polymerase Chain Reaction
+
+### Single Nucleotide Polymorphisms
+
+### Synonymous and Nonsynonymous Polymorphisms
+
+### Segregating sites and nucleotide mismatches
+
+## Utility of genetic polymorphisms

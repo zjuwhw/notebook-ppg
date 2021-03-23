@@ -1,0 +1,41 @@
+# Random genetic drift
+
+## Random genetic drift and binomial sampling
+
+## The Wright-Fisher Model of random genetic drift
+
+## The diffusion approximation
+
+### An approach looking forward
+
+### And approach looking backward
+
+### Absorption time and time to fixation
+
+## Rndom drift in a subdivided population
+
+## Effective population size
+
+### Fluctuation in population size
+
+### Unequal sex ratio, sex chromosomes, organelle genes
+
+### Variance in offspring number
+
+### Effective size of a subdivided population
+
+## Gene trees and coalescence
+
+### Coalescent effective size
+
+### Coalescence with population growth
+
+### Coalescent models with mutation
+
+### Applications of coalescent methods
+
+## Theoretical implications of coalescence
+
+### Coalescent models with recombination
+
+### Linkage disequilibrium mapping

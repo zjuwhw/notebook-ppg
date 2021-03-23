@@ -1,0 +1,37 @@
+# Organization of Genetic Variation
+
+## Random mating
+
+### Nonverlapping generations
+
+## The Hardy-Weinberg Principle
+
+### Random mating of genotypes versus random union of gametes
+
+### Implications of the Hardy-Weinberg principles
+
+## Testing for Hardy-Weinberg Equilibrium
+
+### Difficulties in testing for Hardy-Weinberg Equilibrium
+
+### Complications of Dominance
+
+### Frequency of Heterozygotes
+
+## Extensions of the Hardy-Weinberg Equilibrium
+
+### Three or More Alleles
+
+### X-Linked genes
+
+## Linkage and Linkage Disequilibrium
+
+### Difficulties in Testing for Linkage Equilibrium
+
+### Relative Measures of Linkage Disequilibrium: D' and r^2
+
+## Causes of Linkage Disequilibrium
+
+### Linkage Disequilibrium due to population admixture
+
+### Linkage Disequilibrium due to reduced recombination
